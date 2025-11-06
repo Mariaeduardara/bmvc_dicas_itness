@@ -18,4 +18,4 @@ por meio de um site simples que exibe **dicas de saúde e bem-estar**.
 
 
 
-## 🗂️ Estrutura do Projeto  
+
